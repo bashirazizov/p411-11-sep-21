@@ -13,7 +13,11 @@ Ev Tapşırıqları (Diaqram formasında həll olunmalıdır. Kod qəbul olunmur
 Variables, Algorithms, DataTypes, Operators, Loops
 
 https://www.w3schools.com/js/js_variables.asp
+
 https://www.tutorialsteacher.com/csharp/csharp-data-types
+
 https://www.w3schools.com/js/js_operators.asp
+
 https://www.w3schools.com/js/js_loop_while.asp
+
 https://www.w3schools.com/js/js_if_else.asp
